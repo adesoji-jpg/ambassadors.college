@@ -1,0 +1,120 @@
+civic education jss3
+question 1: NADEP  means ____
+<input type='' radio''name=''question1''> Nigeria program for the era of  program
+<input type='' radio''name=''question1''>Nigeria program for the establishment of program
+<input type='' radio''name=''question1''> national program for the eradication of poverty
+<input type='' radio''name=''question1''>all of the above
+
+question 2 :one of the following below tom the national security agencies
+<input type='' radio''name=''question1''> state security services
+<input type='' radio''name=''question1''> army
+<input type='' radio''name=''question1''> doctor
+<input type='' radio''name=''question1''>fsi
+
+question 3 :____________ is used to refer to situation which people are free and protected from danger and wars in the natural life
+<input type='' radio''name=''question1''>security
+<input type='' radio''name=''question1''>natural
+<input type='' radio''name=''question1''> guard
+<input type='' radio''name=''question1''> natural security
+
+question 4 : all the following are nigeria constitutional regiment except
+<input type='' radio''name=''question1''>Clifford
+<input type='' radio''name=''question1''>MacPherson
+<input type='' radio''name=''question1''> Richard
+<input type='' radio''name=''question1''> laggard
+
+question 5 : ___________  is a body of agreed rules and principles according to the which a country is government
+<input type='' radio''name=''question1''> law
+<input type='' radio''name=''question1''> constitution
+<input type='' radio''name=''question1''>rules
+<input type='' radio''name=''question1''> principles
+
+question 6: Nigeria constitution become operative in what year
+<input type='' radio''name=''question1''> 1996
+<input type='' radio''name=''question1''>1995
+<input type='' radio''name=''question1''>1990
+<input type='' radio''name=''question1''>1999
+
+question 7 :Nigeria constitution was derived from which constitution
+<input type='' radio''name=''question1''> America
+<input type='' radio''name=''question1''>Britain  
+<input type='' radio''name=''question1''> great Britain
+<input type='' radio''name=''question1''> Ghana
+
+question 8: ___________ is one ,who either by birth or right has the full rights as member of the particular country
+<input type='' radio''name=''question1''> member
+<input type='' radio''name=''question1''> patriarchy
+<input type='' radio''name=''question1''> citizen
+<input type='' radio''name=''question1''> none
+
+question 9 : all the following are rules of citizen in constitutional development except
+<input type='' radio''name=''question1''> presentation of memorandum
+<input type='' radio''name=''question1''>voting
+<input type='' radio''name=''question1''> citizen
+<input type='' radio''name=''question1''>referendum and plebiscite
+
+question 10 : one of the following as a rule of citizen as natural security
+<input type='' radio''name=''question1''> vigilance
+<input type='' radio''name=''question1''>law
+<input type='' radio''name=''question1''> citizen
+<input type='' radio''name=''question1''>none
+
+question 11 :  the duty of the executive arm of government is the maintenance of law and order
+<input type='' radio''name=''question1''> true
+<input type='' radio''name=''question1''> false
+<input type='' radio''name=''question1''> none
+<input type='' radio''name=''question1''> all of the above
+
+question 12 : ________ is the security agency responsible monitoring the people and goods that move in and out of the country
+<input type='' radio''name=''question1''> immigration
+<input type='' radio''name=''question1''> custom
+<input type='' radio''name=''question1''>immigrant
+<input type='' radio''name=''question1''> all the above
+
+question 13 : sss means _________________
+<input type='' radio''name=''question1''> science security state  
+<input type='' radio''name=''question1''> state security service
+<input type='' radio''name=''question1''> service secure state
+<input type='' radio''name=''question1''> none
+
+question 14 : all of the following are example of self-employment
+<input type='' radio''name=''question1''> trading
+<input type='' radio''name=''question1''>glass work
+<input type='' radio''name=''question1''>furniture work
+<input type='' radio''name=''question1''> occupation
+
+question 15 : NDE means ________
+<input type='' radio''name=''question1''>natural directorate of employment
+<input type='' radio''name=''question1''> Nigeria directory employee
+<input type='' radio''name=''question1''> Nigeria during of employment
+<input type='' radio''name=''question1''> natural defense of employment
+
+question 16: _____ refers to a situation whereby a person works independently  for customs and client and not for a particular employer
+<input type='' radio''name=''question1''> self
+<input type='' radio''name=''question1''> employment
+<input type='' radio''name=''question1''> self employment
+<input type='' radio''name=''question1''> employee
+
+question 17: the rewards for one that is self employed is called _______
+<input type='' radio''name=''question1''> profit
+<input type='' radio''name=''question1''> wage
+<input type='' radio''name=''question1''> salary
+<input type='' radio''name=''question1''> none
+
+question 18 : one of the following is a need for self employment
+<input type='' radio''name=''question1''> it guarantee high standard of living
+<input type='' radio''name=''question1''> loans
+<input type='' radio''name=''question1''> grants
+<input type='' radio''name=''question1''> personal saving
+
+question 19: grants is done by governments
+<input type='' radio''name=''question1''> true
+<input type='' radio''name=''question1''> false
+<input type='' radio''name=''question1''> none
+<input type='' radio''name=''question1''> all of the above
+
+question 20 : citizens are expected to show their live for their country which means ______
+<input type='' radio''name=''question1''> patriarchy
+<input type='' radio''name=''question1''> patriotism
+<input type='' radio''name=''question1''> love
+<input type='' radio''name=''question1''> loyalty
