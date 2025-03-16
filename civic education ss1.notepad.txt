@@ -1,0 +1,120 @@
+civic education ss1                                                                                                                                                                                                                                                                                                                                                                                                 
+Question 1: _____________ can also be called open government 
+<input type="radio"name="question1">government 
+<input type="radio"name="question1">authority 
+<input type="radio"name="question1">democracy 
+<input type="radio"name="question1">representative
+
+Question 2 :_____________ development the concept of rule of law 
+<input type="radio"name="question1">Abraham Lincoln 
+<input type="radio"name="question1"> Herbert Macaulay 
+<input type="radio"name="question1"> au dicey 
+<input type="radio"name="question1">Adam smith 
+
+Question 3 : UDHR means _________ 
+<input type="radio"name="question1">universal dispute human right
+<input type="radio"name="question1">universal declaration of human regulation 
+<input type="radio"name="question1"> universal declaration of human right
+<input type="radio"name="question1">universal declaration of human right 
+
+Question 4: the seven core freedom of UHDR were based on the __________ 
+<input type="radio"name="question1"> freedom for four 
+<input type="radio"name="question1">four freedom 
+<input type="radio"name="question1">freedom 
+<input type="radio"name="question1"> none
+
+Question 5 : ________ can defined as a system at government where the supreme and ultimate power records in the people 
+<input type="radio"name="question1">democracy
+<input type="radio"name="question1">democracy
+<input type="radio"name="question1">democracy
+<input type="radio"name="question1">democratic 
+
+Question 6 : the system of democracy started in _______________ city 
+<input type="radio"name="question1">ancient Greece
+<input type="radio"name="question1">ancient Greek
+<input type="radio"name="question1"> Italy 
+<input type="radio"name="question1">Rome 
+
+question 7 : __________ is the ability or willingness to do something and the power of doing what has concerned without interference 
+<input type="radio"name="question1">liberty 
+<input type="radio"name="question1"> freedom 
+<input type="radio"name="question1">selfies
+<input type="radio"name="question1"> none 
+
+question 8 :right may be categorized into forms are _________and _______
+<input type="radio"name="question1"> social and natural fundamental human right 
+<input type="radio"name="question1"> social and physical right 
+<input type="radio"name="question1">right to live 
+<input type="radio"name="question1"> freedom at want 
+
+question 9  :all of the following are example of human right organization in Nigeria except 
+<input type="radio"name="question1">Haran
+<input type="radio"name="question1">CLU
+<input type="radio"name="question1">crp
+<input type="radio"name="question1">Cass
+
+question 10 : _________ are groups formed property or by the government to protect the fundamental right of citizens 
+<input type="radio"name="question1"> human right groups 
+<input type="radio"name="question1">human resort group
+<input type="radio"name="question1">human right 
+<input type="radio"name="question1"> human rule 
+
+question 11 : one of the following below to the social fundamental right 
+<input type="radio"name="question1"> right to live 
+<input type="radio"name="question1"> freedom of worship 
+<input type="radio"name="question1">right to education 
+<input type="radio"name="question1">all of the above 
+
+question 12 : the UDHR was created in what year ________ at which place 
+<input type="radio"name="question1">1948,france
+<input type="radio"name="question1"> 1949, India 
+<input type="radio"name="question1">1948,palais de challiot paris
+<input type="radio"name="question1">1950,america 
+
+question 13 : in democracy ,the party with the highest vote during an election emergencies the winner to respect the people 
+true 
+false
+maybe
+not sure
+
+question 14 : direct democracy is impossible in modern democracy 
+<input type="radio"name="question1"> true
+<input type="radio"name="question1"> false 
+<input type="radio"name="question1">none 
+<input type="radio"name="question1"> all of the above 
+
+question 15 : one of the following is a characteristic of representative democracy 
+<input type="radio"name="question1">rule of law 
+<input type="radio"name="question1">conflict 
+<input type="radio"name="question1"> law 
+<input type="radio"name="question1"> justice 
+
+question 16 : all the following are feature of rule of law except 
+<input type="radio"name="question1"> punishment of offence must be clearly spot out 
+<input type="radio"name="question1"> constitution 
+<input type="radio"name="question1"> right 
+<input type="radio"name="question1"> laws 
+
+question 17 : one the following is an impact of human right groups 
+<input type="radio"name="question1"> protection of fundamental human right 
+<input type="radio"name="question1"> law 
+<input type="radio"name="question1"> to be nonplaced  
+<input type="radio"name="question1"> none 
+
+question 18 :  CLU means _____________
+<input type="radio"name="question1">center for learning 
+<input type="radio"name="question1"> civic liberties organization 
+<input type="radio"name="question1"> chief of local
+<input type="radio"name="question1"> none 
+
+question 19: __________ define democracy as government of the people by people and for people 
+<input type="radio"name="question1">Lincoln
+<input type="radio"name="question1"> Abraham Lincoln 
+<input type="radio"name="question1">MARX WEBLR
+<input type="radio"name="question1"> Karl MARX 
+
+question 20: _________ can be define as a form of government practice where by qualify citizen elect their representative to represent them 
+<input type="radio"name="question1">democracy 
+<input type="radio"name="question1"> representative democracy 
+<input type="radio"name="question1"> rule of majority 
+<input type="radio"name="question1"> all of the above
