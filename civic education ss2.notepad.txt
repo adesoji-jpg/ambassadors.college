@@ -1,0 +1,90 @@
+civic education  ss2                                                                                                                                                                                                                                                                                                                                                                                                                 
+question 1:  the origin of human right can be described to the existence of _________
+<input type="radio"name="question1"> Margaret cart 
+<input type="radio"name="question1"> manga kart
+<input type="radio"name="question1">magna cart 
+<input type="radio"name="question1"> magna kart 
+
+question 2 : all the following are examples of human right except 
+<input type="radio"name="question1"> right of live 
+<input type="radio"name="question1">right to education 
+<input type="radio"name="question1"> right of gainful employment 
+<input type="radio"name="question1"> right to school
+
+question 3 : drugs can be administered in so many ways 
+<input type="radio"name="question1"> true
+<input type="radio"name="question1"> false 
+<input type="radio"name="question1"> none 
+<input type="radio"name="question1"> none of the above 
+
+question 4 : the NDLEA stands for __________ 
+<input type="radio"name="question1">natural drugs and administration 
+<input type="radio"name="question1"> nature for drug and food administration
+<input type="radio"name="question1"> natural agent for food and drug administration 
+<input type="radio"name="question1"> drug administration and control
+
+question 5: one of the following drug is responsible for enhancement of stringing and musculature 
+<input type="radio"name="question1"> cannabis 
+<input type="radio"name="question1">stimulants 
+<input type="radio"name="question1"> sedative anxiolytic 
+<input type="radio"name="question1"> anabolic steroids
+
+question 6 : BIC stands for _________ 
+<input type="radio"name="question1"> better the counter 
+<input type="radio"name="question1"> behind the counter
+<input type="radio"name="question1"> bar television 
+<input type="radio"name="question1"> Bit coin
+
+question 7:  the world human right day is an what year 
+<input type="radio"name="question1"> 1948
+<input type="radio"name="question1">1949
+<input type="radio"name="question1">1950
+<input type="radio"name="question1">1947
+
+questions 8 :________ can be defined as a world-wide principle of right and freedom that all human  being are entitled to enjoy as person 
+<input type="radio"name="question1">human rule 
+<input type="radio"name="question1"> human right 
+<input type="radio"name="question1"> human law 
+<input type="radio"name="question1">rule law 
+
+question 9 :  national conscience party was formed and led by late 
+<input type="radio"name="question1"> professor wale Soyinka 
+<input type="radio"name="question1">chief gani Fawehinmi
+<input type="radio"name="question1"> chief etedua 
+<input type="radio"name="question1">all of the above
+
+question 10 : popular organization can also be called ________ 
+<input type="radio"name="question1"> political parties 
+<input type="radio"name="question1"> popular opinion 
+<input type="radio"name="question1">popular participation 
+<input type="radio"name="question1"> none of the above 
+
+question 11 : all the following are factors leading limitations of human right except 
+<input type="radio"name="question1">right to own property 
+<input type="radio"name="question1">environmental cleanliness 
+<input type="radio"name="question1">state of emergency 
+<input type="radio"name="question1">coup d’etat 
+
+question 12: __________ is any substance ,solid ,liquid or gas the changes the functions and structure of the body in some ways 
+<input type="radio"name="question1"> drug abuse 
+<input type="radio"name="question1"> above 
+<input type="radio"name="question1">medicine 
+<input type="radio"name="question1"> drug
+
+question 13 : one off the following is responsible for administering drug 
+<input type="radio"name="question1">inhaled 
+<input type="radio"name="question1">sniffing 
+<input type="radio"name="question1">ulc
+<input type="radio"name="question1">pura
+
+question 14 : all the following are use to prevent drug above except 
+<input type="radio"name="question1"> counselling 
+<input type="radio"name="question1"> persecute norms of our junctions 
+<input type="radio"name="question1">reinforcement of behavior 
+<input type="radio"name="question1"> above 
+
+questions 15 : PRCM means __________ 
+<input type="radio"name="question1"> pharmacy registration of Nigeria 
+<input type="radio"name="question1"> paves road company Nigeria 
+<input type="radio"name="question1"> pharmacy registration and chemist of Nigeria 
+<input type="radio"name="question1"> pharmacists registration company of Nigeria
