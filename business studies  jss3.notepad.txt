@@ -1,0 +1,120 @@
+business studies jss3                                                                                                                                                                                                                                                                                                                                                                                                      
+Question 1 :The following are the departments in an organization, EXCEPT______
+<input type='' radio''name=''question1''>Counselling
+<input type='' radio''name=''question1''>Administrative
+<input type='' radio''name=''question1''>Accounting
+<input type='' radio''name=''question1''>personnel department
+
+Question 2 :The accounting department is headed by who?
+<input type='' radio''name=''question1''> Chief imam
+<input type='' radio''name=''question1''> Chief Accountant
+<input type='' radio''name=''question1''> Chief priest
+<input type='' radio''name=''question1''> Chief Judge
+
+Question 3:____________ is one of the activities which aids commerce
+<input type='' radio''name=''question1''> Warehousing
+<input type='' radio''name=''question1''>Commerce
+<input type='' radio''name=''question1''> Society
+<input type='' radio''name=''question1''> Consumer
+
+Question 4 : One of the following is the positive effect of production on the environment
+<input type='' radio''name=''question1''>It causes air pollution
+<input type='' radio''name=''question1''> It develops society
+<input type='' radio''name=''question1''> It brings more money
+<input type='' radio''name=''question1''> It kills germs
+
+Question 5: Factors of production are divided into how many
+<input type='' radio''name=''question1''> 5
+<input type='' radio''name=''question1''> 3
+<input type='' radio''name=''question1''> 2
+<input type='' radio''name=''question1''> 4
+
+Question 6: The types of Labor are _____________& amp; _____________
+<input type='' radio''name=''question1''> Literate &amp; illiterate
+<input type='' radio''name=''question1''> Skilled & amp; Unskilled
+<input type='' radio''name=''question1''> All of the above
+<input type='' radio''name=''question1''> Experienced &amp; Unexperienced
+
+Question 7: The following are the component of business study except _____________
+<input type='' radio''name=''question1''>commerce
+<input type='' radio''name=''question1''> office practice
+<input type='' radio''name=''question1''>Bookkeeping
+<input type='' radio''name=''question1''> accounting
+
+Question 8: The types of office are_____ & amp;____
+<input type='' radio''name=''question1''>Big &amp; great
+<input type='' radio''name=''question1''>bigger & amp; biggest
+<input type='' radio''name=''question1''>small &amp; large
+<input type='' radio''name=''question1''>Tall &amp; short
+
+Questiion 9:______________ is an example of a clerical staff
+<input type='' radio''name=''question1''>account clerk
+<input type='' radio''name=''question1''> tailor
+<input type='' radio''name=''question1''> driver
+<input type='' radio''name=''question1''>bouncer
+
+Question 10: A situation in which important information must be kept secret is known as:___________
+<input type='' radio''name=''question1''> confidentiality
+<input type='' radio''name=''question1''> coverage
+<input type='' radio''name=''question1''>leakage                                                                                                                                                                                         <input type='' radio''name=''question1''>confidence
+
+Question 11: The process through which new products are brought to the notice of the public is know as:
+<input type='' radio''name=''question1''> Advertising
+<input type='' radio''name=''question1''> Commerce
+<input type='' radio''name=''question1''>Insurance
+<input type='' radio''name=''question1''>Transportation
+
+Question 12: An advantage of office machines is that they are ?
+<input type='' radio''name=''question1''> Cheap to maintain
+<input type='' radio''name=''question1''> Time saving devices
+<input type='' radio''name=''question1''> Manually operated
+<input type='' radio''name=''question1''> Less costly to purchase
+
+Question 13 : Which of the following types of advertising is aimed at a specific group of people.
+<input type='' radio''name=''question1''>Indirect
+<input type='' radio''name=''question1''> Direct
+<input type='' radio''name=''question1''> competitive
+<input type='' radio''name=''question1''>persuasive
+
+Question 14 : Advantages of Air transport over other means of transportation is ______
+<input type='' radio''name=''question1''> National defense
+<input type='' radio''name=''question1''> Risky
+<input type='' radio''name=''question1''> Limited carrying capacity
+<input type='' radio''name=''question1''> Weather condition
+
+Question 15: Commerce is ______
+<input type='' radio''name=''question1''> Buying &amp; selling of goods and services
+<input type='' radio''name=''question1''> Giving alms to the poor and needy
+<input type='' radio''name=''question1''> Producing raw materials
+<input type='' radio''name=''question1''> Selling of raw materials
+
+Question 16 : One of these is not aids to commerce
+<input type='' radio''name=''question1''> Banking
+<input type='' radio''name=''question1''> Insurance
+<input type='' radio''name=''question1''> Warehousing
+<input type='' radio''name=''question1''>Wholesaling
+
+Question 17 : Business studies student can become any of these except
+<input type='' radio''name=''question1''> Accountant
+<input type='' radio''name=''question1''> Banker
+<input type='' radio''name=''question1''> Business woman
+<input type='' radio''name=''question1''> Vocational
+
+Question 18: The medium of advertisement that reaches both cities &amp; rural areas is called ______
+<input type='' radio''name=''question1''> Journals
+<input type='' radio''name=''question1''> Radio
+<input type='' radio''name=''question1''> Magazine
+<input type='' radio''name=''question1''> Television
+
+Question 19: The practice of attracting the attention of people to goods and services available for
+sales is called ______
+<input type='' radio''name=''question1''> Radio
+<input type='' radio''name=''question1''> Advertising
+<input type='' radio''name=''question1''> Promotion
+<input type='' radio''name=''question1''> Marketing
+
+Question 20: An office machine which processes office data at great speed is called _____
+<input type='' radio''name=''question1''> Computer
+<input type='' radio''name=''question1''> Photocopier
+<input type='' radio''name=''question1''> Promotion
+<input type='' radio''name=''question1''> Marketing
