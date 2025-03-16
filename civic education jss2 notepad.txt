@@ -1,0 +1,119 @@
+ civic education jss2                                                                                                                                                                                                                       
+
+question 1 : Nigeria as a federation operate a________ her government
+<input type="radio"name="question1"> three 
+<input type="radio"name="question1"> two 
+<input type="radio"name="question1">five 
+<input type="radio"name="question1">six 
+                                                                                                                                                                                                                                                                        question 2 : in the residual list only the ______ government has the power 
+<input type="radio"name="question1"> local 
+<input type="radio"name="question1">state 
+<input type="radio"name="question1"> federal 
+<input type="radio"name="question1"> executive 
+
+question 3 : ______ is the institution of the state that makes and enforces laws and also ensures that the goals of the state are realized 
+governed
+state 
+government 
+democracy 
+
+question 4 : ________ is the arm of government that is responsible for making laws 
+judiciary 
+legislature 
+executive 
+concurrent 
+
+question 5 : the judiciary is made up of omen laws except _________
+lawyers 
+high courts 
+supreme courts 
+courts of appeal 
+
+question 6 : ________ are measures provided by the constitution which allow each arm of government to ensure that other arms do not abuse their powers 
+separation of powers 
+balance 
+check 
+check and balance 
+
+question 7:  one of the following is an office within the judiciary__________
+president of the court of appeal 
+magistrate 
+customary 
+none 
+
+question 8 : all the following are types of leadership except __________
+military leaders 
+traditional leaders 
+religious 
+president leader
+
+question 9:  ____________is a person who carries out the others of the leader to that group objectives can be 
+following
+follower
+followership 
+all of the above 
+
+question 10 : without a follower we can't have a leader:___________- 
+true 
+false 
+maybe 
+all of the above 
+
+question 11: one of the following is the consequence of bad leadership and followership _______________
+wastage of resources 
+consequence 
+high sense of responsibility 
+none 
+
+question 12: the principle of rule of law is credited to __________ 
+prof dicey
+prof  A.U dupcy 
+prof A.U dicey 
+Herbert Macaulay
+
+question 13: _________ is the rules and regulations contained in the constitution and series as guide to the government and governed
+constitution 
+law 
+rules
+none
+
+question 14 :all of the following are qualities of good leadership except
+honesty 
+firmness
+disciple
+fellowship
+
+question 15: the symbol of authority of the legislative is called __________
+maize
+maize
+mace 
+none 
+
+question 16 : one of the following is a function of government 
+protection of state against external Agis sun
+legislation 
+judiciary
+executive 
+
+question 17: the natural assembly is made of two arms _________ and __________ 
+senate and representative 
+arms and leg 
+house representative and senate 
+all of the above 
+
+question 18 : all of the items belong to the executive list except 
+defense 
+prisons 
+public holiday 
+electoral law
+
+question 19:  if the three-tiers of government have the same functions to perform they will be conflict of interest 
+true 
+false 
+maybe 
+all of the above 
+
+question 20 : _________ is the lowest level of government 
+state government 
+local government 
+federal government  
