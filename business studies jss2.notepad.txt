@@ -1,0 +1,109 @@
+business studies jss2                                                                                                                                                                                                                                                                                                                                                                                                               
+Question 1 : The types of Labor are _____& amp;______
+<input type='' radio''name=''question1''> Literate & amp; illiterate
+<input type='' radio''name=''question1''> Skilled & amp; Unskilled
+<input type='' radio''name=''question1''>All of the above
+<input type='' radio''name=''question1''> Experienced &amp; Unexperienced
+
+Question 2: The following are the factors that causes people to lie except _____
+<input type='' radio''name=''question1''> Love of money
+<input type='' radio''name=''question1''> Protection
+<input type='' radio''name=''question1''> Sleeping
+<input type='' radio''name=''question1''> Hatred
+
+Question 3:Courage is one of the rewards for being truthful
+<input type='' radio''name=''question1''> False
+<input type='' radio''name=''question1''>Not really
+<input type='' radio''name=''question1''> True
+<input type='' radio''name=''question1''> None of the above
+
+Question 4: One of the following is the reward for labor
+<input type='' radio''name=''question1''> Cash
+<input type='' radio''name=''question1''> Transfer
+<input type='' radio''name=''question1''> Wages & amp; Salaries
+<input type='' radio''name=''question1''> Counterfeit.
+
+Question 5: An Entrepreneur Coordinates all other factors of production
+<input type='' radio''name=''question1''> False
+<input type='' radio''name=''question1''> Not sure
+<input type='' radio''name=''question1''>True
+<input type='' radio''name=''question1''> All of the above
+
+Question 6: Trade between two countries is known as ____
+<input type='' radio''name=''question1''> Boundary
+<input type='' radio''name=''question1''> Foreign
+<input type='' radio''name=''question1''>Local
+<input type='' radio''name=''question1''> Home
+
+Question 7.The essential qualities of a clerical staff consist of the following EXCEPT being_________
+<input type='' radio''name=''question1''>Dishonest
+<input type='' radio''name=''question1''> Gentle
+<input type='' radio''name=''question1''> Polite
+<input type='' radio''name=''question1''> Smart
+
+Question 8: Which of the following departments is responsible for employment of workers
+<input type='' radio''name=''question1''>Administrative
+<input type='' radio''name=''question1''> Finance
+<input type='' radio''name=''question1''> Personnel
+<input type='' radio''name=''question1''> Sales
+
+Question 9: Which of the following is a factor of production?
+<input type='' radio''name=''question1''>Bank
+<input type='' radio''name=''question1''> Labor
+<input type='' radio''name=''question1''>Warehouse
+<input type='' radio''name=''question1''> Insurance
+
+Question 10: Which of the following attracts profit or Loss as a reward?
+<input type='' radio''name=''question1''> Labour
+<input type='' radio''name=''question1''>Capital
+<input type='' radio''name=''question1''> Entrepreneur
+<input type='' radio''name=''question1''> Land
+
+Question 11:The reward for capital is ______________
+<input type='' radio''name=''question1''> Interest
+<input type='' radio''name=''question1''> wages
+<input type='' radio''name=''question1''> profit
+<input type='' radio''name=''question1''> rent
+
+Question 12:The following are the different aids to trade except_________________
+<input type='' radio''name=''question1''> Tourism
+<input type='' radio''name=''question1''>Communication
+<input type='' radio''name=''question1''> Freelancing
+<input type='' radio''name=''question1''> Banking
+
+Question 13:Which of the following may not be paid for from the petty cash account?
+<input type='' radio''name=''question1''>Computer set
+<input type='' radio''name=''question1''> Correction fluid
+<input type='' radio''name=''question1''> Pencil
+<input type='' radio''name=''question1''>Postage stamp
+
+Question 14 :Which of the following departments is responsible for production of goods?
+<input type='' radio''name=''question1''>Administrative
+<input type='' radio''name=''question1''>Finance
+<input type='' radio''name=''question1''> Personnel
+<input type='' radio''name=''question1''> Production
+
+Question 15:Which of the following is NOT an office equipment
+<input type='' radio''name=''question1''> Calculating machine
+<input type='' radio''name=''question1''>Filing Cabinet
+<input type='' radio''name=''question1''> Loudspeaker
+<input type='' radio''name=''question1''> Typewriter
+
+Question 16 : The process through which new products are brought to the notice of the public
+is known as ____
+<input type='' radio''name=''question1''>Commerce
+<input type='' radio''name=''question1''> Advertising
+<input type='' radio''name=''question1''> Insurance
+<input type='' radio''name=''question1''>Transportation
+
+Question 17 :Which of the following advertising media can be used to widely reach the rural population
+<input type='' radio''name=''question1''>Billboards
+<input type='' radio''name=''question1''> Handbills
+<input type='' radio''name=''question1''>Radio
+<input type='' radio''name=''question1''> Television
+
+Question 18: Which of the following is not an asset of a company?
+<input type='' radio''name=''question1''> Furniture
+<input type='' radio''name=''question1''> Goodwill
+<input type='' radio''name=''question1''> Land
+<input type='' radio''name=''question1''> Rent
