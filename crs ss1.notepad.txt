@@ -1,0 +1,124 @@
+ crs ss1 
+
+question1. when an action is not injurious but right in the sight of GOD is know as ________
+<input type="radio"name="question1"> love 
+<input type="radio"name="question1"> wise decision 
+<input type="radio"name="question1"> unwise decision 
+<input type="radio"name="question1"> wisdom 
+
+question 2. __________ ruled after king david 
+<input type="radio"name="question1">rehoboam
+<input type="radio"name="question1"> solomon 
+<input type="radio"name="question1"> saul 
+<input type="radio"name="question1"> peter 
+
+question 3. he made ________ importance wise decisions during his reign
+<input type="radio"name="question1">2
+<input type="radio"name="question1">3
+<input type="radio"name="question1">4
+<input type="radio"name="question1">1 
+
+question 4. before the temple was built __________ was the most important centre for the worship of the lord 
+<input type="radio"name="question1">gibeon 
+<input type="radio"name="question1">samaria 
+<input type="radio"name="question1">bethelehem 
+<input type="radio"name="question1"> jerusalem 
+
+question 5 .solomon made good use of his wisdom in deciding the case of the _______ harlots 
+<input type="radio"name="question1">three 
+<input type="radio"name="question1">six 
+<input type="radio"name="question1">two 
+<input type="radio"name="question1">four 
+
+question 6. _________ is seen as a special gift from GOD and it is the key to success in life 
+<input type="radio"name="question1"> wisdom 
+<input type="radio"name="question1">knowledge 
+<input type="radio"name="question1">understanting 
+<input type="radio"name="question1"> believe 
+
+question 7.solomon uttered _______ proverbs and ________ songs 
+<input type="radio"name="question1">3000 and 1005 
+<input type="radio"name="question1"> 2000 and 1000 
+<input type="radio"name="question1">4000 and 2500  
+<input type="radio"name="question1"> 2500 and 4000 
+
+question 8.god of israel was the GOD of _______ 
+<input type="radio"name="question1"> america 
+<input type="radio"name="question1">nigeria 
+<input type="radio"name="question1">the whole world 
+<input type="radio"name="question1"> maria 
+
+question 9.  when solomon died ,he was succeded by his son __________ 
+<input type="radio"name="question1">rehoboam
+<input type="radio"name="question1">joshua 
+<input type="radio"name="question1">peter 
+<input type="radio"name="question1"> josipha 
+
+question 10. _________ has to do with the state of always waiting something which belongs to someone else 
+<input type="radio"name="question1">creed 
+<input type="radio"name="question1">greed 
+<input type="radio"name="question1"> honesty 
+<input type="radio"name="question1"> kindness 
+
+question 11 ._________ was the king of the northern kingdom of israel 
+<input type="radio"name="question1"> joab 
+<input type="radio"name="question1"> ahab 
+<input type="radio"name="question1"> nathan 
+<input type="radio"name="question1"> joel 
+
+question 12 his wife's name was __________ 
+<input type="radio"name="question1">jezebel 
+<input type="radio"name="question1">martha 
+<input type="radio"name="question1">mary
+<input type="radio"name="question1"> achab  
+
+
+question 13.naboth was a native of _______ 
+<input type="radio"name="question1">jezreel 
+<input type="radio"name="question1">egypt
+<input type="radio"name="question1">canaan 
+<input type="radio"name="question1"> galile
+
+question 14. he owned a _________ 
+<input type="radio"name="question1">forest
+<input type="radio"name="question1">mountain 
+<input type="radio"name="question1">vineyard 
+<input type="radio"name="question1"> canaan 
+
+question 15.__________ envied the vineyard and wanted to have it at all cost 
+<input type="radio"name="question1"> jezebel 
+<input type="radio"name="question1">ahab 
+<input type="radio"name="question1">jude
+<input type="radio"name="question1"> simoyas 
+
+question 16. do you not govern israel ? who made the above statement ? 
+<input type="radio"name="question1"> ahab 
+<input type="radio"name="question1"> jezebel 
+<input type="radio"name="question1">naboth
+<input type="radio"name="question1"> peter 
+
+question 17. ____________ is a sin which seperates us from GOD 
+<input type="radio"name="question1"> greed 
+<input type="radio"name="question1">sharing 
+<input type="radio"name="question1">honesty 
+<input type="radio"name="question1">godness 
+
+question 18. as ahab stepped into the vineyard ,he was confronted by the prophet ______
+<input type="radio"name="question1">elijah 
+<input type="radio"name="question1"> elisha 
+<input type="radio"name="question1">nathaniel 
+<input type="radio"name="question1"> mathew 
+
+
+question 19. greed for power exhibits itself when politicians ___________ elections 
+<input type="radio"name="question1">win 
+<input type="radio"name="question1">campaign 
+<input type="radio"name="question1"> rig 
+<input type="radio"name="question1"> lose 
+
+question 20. through greed ,ahab became a __________ to the devil 
+<input type="radio"name="question1"> friend 
+<input type="radio"name="question1"> partner 
+<input type="radio"name="question1"> slave 
+<input type="radio"name="question1"> gratuate 
+
