@@ -1,0 +1,123 @@
+Chemistry ss3
+
+Question 1. In the reaction between sodium hydroxide and sulphuric acid solutions, what volume of 0.5 molar sodium hydroxide would exactly neutralise 10cm3 of 1.25 molar sulphuric acid?
+A. 5cm3
+B. 10cm3
+C. 20cm3
+D. 25cm3
+E. 50cm3
+
+Question 2. Which chemical formula is both an empirical formula and a molecular formula?
+A. CH4 
+B. C2H6 
+C. CH3COOH 
+D. CH3CH2COOCH3
+
+Question 3. Which element is present in all organic compounds?
+A.Hydrogen 
+B.Nitrogen 
+C.Carbon 
+D.Oxygen
+
+Question 4. What products are obtained with CH4(g) burns completely in an excess of oxygen?
+A.CO and H2O 
+B.CO and C 
+C.CO2 and H2O 
+D.CO2 and CO
+
+Question 5. Which hydrocarbon is a member of the alkene series?
+A.C2H2 
+B.C3H6 
+C.C4H10 
+D.C4H12
+
+Question 6. Which formula represents butane?
+A.CH3CH3 
+B.CH3CH2CH3 
+C.CH3CH2CH2CH3 
+D.CH3CH2CH2CH2CH3
+
+Question 7. A hydrocarbon molecule is considered to be saturated if the molecule contains
+A.Single covalent bonds, only 
+B.A double covalent bond, only 
+C.A triple covalent bond 
+D.Single and double covalent bonds
+
+Question 8. A hydrocarbon with no ring structure, no double or triple bonds is called an ___________.
+A.Alkene 
+B.Alkyne 
+C.Alkane 
+D.Alkali
+
+9. A hydrocarbon double bonds and no triple bond configuration is called an _______________.
+A.Alkene 
+B.Alkyne 
+C.Alkane 
+D.Alkali
+
+Question 10. A hydrocarbon with triple bonds is called an ______________
+A.Alkene 
+B.Alkyne 
+C.Alkane 
+D.Alkali
+
+Question 11. Which of the following is the molecular formula for ethylene?
+A.C2H2 
+B.C2H4 
+C.C2H6 
+D.C2H8
+
+Question 12. Which of the following is the molecular formula for ethane?
+A.C2H2 
+B.C2H4 
+C.C2H6 
+D.C2H8
+
+Question 13. Which of the following is the molecular formula for acetylene?
+A.C2H2 
+B.C2H4 
+C.C2H6 
+D.C2H8
+
+Question 14. Which of the following is the molecular formula for butane?
+A.C2H 
+B.C2H6 
+C.C4H8 
+D.C4H10
+
+Question 15. Which of the following is the molecular formula for hexane?
+A.C5H11 
+B.C5H12 
+C.C6H12 
+D.C6H14
+
+Question 16. Which of the following is the molecular formula for pentane?
+A.C5H11 
+B.C5H12 
+C.C6H12 
+D.C6H14
+
+Question 17. Which of the products of these mixtures is acidic?
+A. HCl(g) + chloroform.
+B. HCl(g) + water.
+C. HCl(g) + Zn.
+D. HCl(g) +H3o+
+
+Question 18. What is the IUPAC name for CH3-CH2-C(CH3)2-CH2-CH(CH 3)2 ?
+ (A) 3,3,5-trimethylhexane
+ (B) 2,2,5-trimethylhexane
+ (C) 2,4,4-trimethylhexane
+ (D) 1,1,3,3-tetramethylpentane
+
+Question 19 . What would be the réaction if they added water(H2o) on Hydrochloric acid(Hcl) :
+a)Hcl+H2o------------------------>>(H3o+)+(cl-)
+b)Hcl+H2o----------------------->>(H3o+)+2(cl-)
+C)Hcl+H2o---------------------->>2(H3o+)+(cl-)
+D)Hcl+H2o----------------------->>(H3o-)+(cl+)
+
+Question 20. Alkane is :
+CH3CH2 
+C(CH 3)2
+CH2CH 
+Cn+1H2(n+1)
+
