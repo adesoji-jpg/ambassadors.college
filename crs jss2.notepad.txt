@@ -1,0 +1,122 @@
+ crs jss2
+
+question 1. jesus needed _________ to help him with his ministry 
+<input type="radio"name="question1"> crowed 
+<input type="radio"name="question1">desciples 
+<input type="radio"name="question1">angels 
+<input type="radio"name="question1">nazareth 
+
+question 2. 'fishers of men' is the same as ________ 
+<input type="radio"name="question1"> catch men 
+<input type="radio"name="question1">count men 
+<input type="radio"name="question1">measures men 
+<input type="radio"name="question1"> forgive men 
+
+question 3 .part of trainning of the disciples involved sending them out on a __________ 
+<input type="radio"name="question1">mission 
+<input type="radio"name="question1">explaned 
+<input type="radio"name="question1">household trial 
+<input type="radio"name="question1">tribune
+
+question 4.the word 'catholic' means _________
+<input type="radio"name="question1"> blood tonic 
+<input type="radio"name="question1">universal
+<input type="radio"name="question1">important
+<input type="radio"name="question1"> governor 
+
+question 5. God's rule in our hearts demands that we christians should behave as the __________-of the earth 
+<input type="radio"name="question1">salt 
+<input type="radio"name="question1">saeasoning
+<input type="radio"name="question1">mountain 
+<input type="radio"name="question1"> rule 
+
+question 6.salt prevent things from ______
+<input type="radio"name="question1"> growing 
+<input type="radio"name="question1">decay 
+<input type="radio"name="question1"> beauty 
+<input type="radio"name="question1"> handsome 
+
+question 7. when we fast and pray for people to see us is known as _____________
+<input type="radio"name="question1">annoyance 
+<input type="radio"name="question1">belief 
+<input type="radio"name="question1">hypocrisy 
+<input type="radio"name="question1"> knowledge 
+
+question 8 ._______ is an earthly story with a heavenly meanning 
+<input type="radio"name="question1"> parable 
+<input type="radio"name="question1">fiction 
+<input type="radio"name="question1">non-fiction 
+<input type="radio"name="question1">miracle 
+
+question 9 .the prodigal son was said to be very _________ 
+<input type="radio"name="question1">dull
+<input type="radio"name="question1">brave 
+<input type="radio"name="question1">wasteful 
+<input type="radio"name="question1">love 
+
+question 10. the shepherd had a hundreds sheeps and lost _______of them in the wilderness 
+<input type="radio"name="question1">two 
+<input type="radio"name="question1">one 
+<input type="radio"name="question1">four 
+<input type="radio"name="question1">six 
+
+question 11. a woman had _________ silver coins and lost one of them .
+<input type="radio"name="question1">ten 
+<input type="radio"name="question1">six 
+<input type="radio"name="question1">two 
+<input type="radio"name="question1">three 
+
+question 12 .rich people think that the most inportant things in life is _________ 
+<input type="radio"name="question1">money 
+<input type="radio"name="question1">food 
+<input type="radio"name="question1">sheeter 
+<input type="radio"name="question1"> obidient 
+
+question 13. "there is joy before the angels of GOD over one sinner who represents" who said this ?
+<input type="radio"name="question1">john 
+<input type="radio"name="question1">paul
+<input type="radio"name="question1">jesus 
+<input type="radio"name="question1">peter
+
+question 14. the out come of 70 and 12 duisciples was _________ 
+<input type="radio"name="question1"> dull 
+<input type="radio"name="question1">not encouraging 
+<input type="radio"name="question1">successful
+<input type="radio"name="question1"> sinner 
+
+question 15. jesus rewarded them with ______in heaven 
+<input type="radio"name="question1">place 
+<input type="radio"name="question1">stone 
+<input type="radio"name="question1">book 
+<input type="radio"name="question1"> bread and tea 
+
+question 16. the disciples were to do their work without asking for any _________
+<input type="radio"name="question1">question 
+<input type="radio"name="question1"> reward 
+<input type="radio"name="question1">return 
+<input type="radio"name="question1">sharing 
+
+question 17. jesus gave the disciples the _________
+<input type="radio"name="question1">book of live 
+<input type="radio"name="question1">  beatitudes 
+<input type="radio"name="question1">great commision 
+<input type="radio"name="question1"> testimony 
+
+question 18 . we should support the activities of the missionaries in our area 
+<input type="radio"name="question1"> true 
+<input type="radio"name="question1"> false 
+<input type="radio"name="question1"> none 
+<input type="radio"name="question1"> all of the above 
+
+question 19. your good life will influence others to lead _________ lives 
+<input type="radio"name="question1"> good 
+<input type="radio"name="question1"> bad
+<input type="radio"name="question1">medium
+<input type="radio"name="question1">richest 
+
+question 20. __________ is the source of live 
+<input type="radio"name="question1"> soil 
+<input type="radio"name="question1">sun 
+<input type="radio"name="question1"> light 
+<input type="radio"name="question1">water 
+
