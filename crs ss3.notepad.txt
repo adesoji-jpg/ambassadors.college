@@ -1,0 +1,122 @@
+ crs ss3 
+
+question 1. a lazy person will always be a source of ____________ to his parents 
+<input type="radio"name="question1"> happiness 
+<input type="radio"name="question1"> joy 
+<input type="radio"name="question1"> sorrow
+<input type="radio"name="question1"> weakedness 
+
+question 2. ___________ is the most important social unit in the society 
+<input type="radio"name="question1"> family 
+<input type="radio"name="question1"> friends 
+<input type="radio"name="question1"> communication  
+<input type="radio"name="question1"> community 
+
+question 3.as father we must also show own love for our wives by _________ them 
+<input type="radio"name="question1"> respectinmg 
+<input type="radio"name="question1"> fighting 
+<input type="radio"name="question1"> abusing 
+<input type="radio"name="question1"> tolerence 
+
+question 4. the second coming of our lord refers to the christian __________ 
+<input type="radio"name="question1"> office 
+<input type="radio"name="question1"> expectation 
+<input type="radio"name="question1"> faith 
+<input type="radio"name="question1"> lovely 
+
+
+question 5. st paul said that The second coming will be preceded by ____________ 
+<input type="radio"name="question1"> signs 
+<input type="radio"name="question1"> images 
+<input type="radio"name="question1"> lectures 
+<input type="radio"name="question1"> deliever 
+
+question  6._________ is only a transition into spiritual life 
+<input type="radio"name="question1"> death 
+<input type="radio"name="question1"> ressurection 
+<input type="radio"name="question1"> destruction 
+<input type="radio"name="question1"> religion 
+
+question 7 _______ would be made available to the children of GOD 
+<input type="radio"name="question1"> wine 
+<input type="radio"name="question1"> food 
+<input type="radio"name="question1"> eternal life 
+<input type="radio"name="question1"> share love 
+
+question 8.christians are warned to be alert and ________ 
+<input type="radio"name="question1"> wasteful 
+<input type="radio"name="question1"> watchful 
+<input type="radio"name="question1"> thoughtful 
+<input type="radio"name="question1"> send email 
+
+question 9.____________ means to bring bact to life 
+<input type="radio"name="question1"> ressurection 
+<input type="radio"name="question1"> awekinning 
+<input type="radio"name="question1"> reformation 
+<input type="radio"name="question1"> trusted 
+
+question 10. jesus christ was raised back to life ___________days after his death some christians in the time of 
+<input type="radio"name="question1"> 2 
+<input type="radio"name="question1"> 4 
+<input type="radio"name="question1"> 3 
+<input type="radio"name="question1"> 5 
+
+querstion 11 .________ did not believe in the fressurection 
+<input type="radio"name="question1"> paul 
+<input type="radio"name="question1"> mathew 
+<input type="radio"name="question1"> judas 
+<input type="radio"name="question1"> joshua 
+
+question 12.__________ represents the christian moral principles of good conduct 
+<input type="radio"name="question1"> focus 
+<input type="radio"name="question1"> faith 
+<input type="radio"name="question1"> forum 
+<input type="radio"name="question1"> unbelieve 
+
+question 13. a true religion man must discpline his _________ 
+<input type="radio"name="question1">tongue 
+<input type="radio"name="question1">nose 
+<input type="radio"name="question1"> chest 
+<input type="radio"name="question1"> hand 
+
+question 14. faith without work is
+<input type="radio"name="question1"> life 
+<input type="radio"name="question1">gold 
+<input type="radio"name="question1">dead 
+<input type="radio"name="question1">happy 
+
+question 15. st james married ________ and _______ in christian life 
+<input type="radio"name="question1"> theory,practice 
+<input type="radio"name="question1"> food,drink 
+<input type="radio"name="question1"> cars,houses 
+<input type="radio"name="question1">moto,building 
+
+question 16. those that are poor in the world are chosen by GOD 
+<input type="radio"name="question1"> true 
+<input type="radio"name="question1">false 
+<input type="radio"name="question1"> maybe 
+<input type="radio"name="question1"> all of the above 
+
+question 17. it is our christian duty to promote _____
+<input type="radio"name="question1">partiality  
+<input type="radio"name="question1">corruption 
+<input type="radio"name="question1">impartiality 
+<input type="radio"name="question1"> reality 
+
+question 18. Abraham believed GOD and it was reckoned to him as ________
+<input type="radio"name="question1"> fear 
+<input type="radio"name="question1">pride 
+<input type="radio"name="question1">righteousness 
+<input type="radio"name="question1">proudness
+
+question 19.  _______ is a medium of communicating with GOD 
+<input type="radio"name="question1">blessing 
+<input type="radio"name="question1">prayer 
+<input type="radio"name="question1">determination 
+<input type="radio"name="question1">envy 
+
+question 20. it is the christian weapon of defence and _____
+<input type="radio"name="question1">encouragement 
+<input type="radio"name="question1"> guilt 
+<input type="radio"name="question1"> fear 
+<input type="radio"name="question1">obey
