@@ -1,0 +1,121 @@
+crs jss3 
+
+question 1. after the birth of jesus ,another boy was born to jewish family named 
+<input type="radio"name="question1"> saul
+<input type="radio"name="question1"> john 
+<input type="radio"name="question1"> steven 
+<input type="radio"name="question1"> oracio 
+
+question 2. he was born at ________ in cicilia 
+<input type="radio"name="question1">joppa 
+<input type="radio"name="question1">lydda 
+<input type="radio"name="question1">tarsus 
+<input type="radio"name="question1">abigal
+
+question 3. he enjoyed _________ citizenship 
+<input type="radio"name="question1">dual 
+<input type="radio"name="question1">triple 
+<input type="radio"name="question1">triplet 
+<input type="radio"name="question1">twince 
+
+qurestion 4. at the age of _________ jewish boy prepares for adult life 
+<input type="radio"name="question1">ten 
+<input type="radio"name="question1"> eleven 
+<input type="radio"name="question1"> twelve 
+<input type="radio"name="question1">fifteen 
+
+question 5. paul spent ________ at the synagogue school 
+<input type="radio"name="question1"> two years 
+<input type="radio"name="question1"> a year 
+<input type="radio"name="question1">a month 
+<input type="radio"name="question1"> three weeks 
+
+question 6. another name for teacher according to the jesus is ________
+<input type="radio"name="question1">leaner 
+<input type="radio"name="question1"> believer 
+<input type="radio"name="question1"> rabbi
+<input type="radio"name="question1">rabbit 
+
+question7. he was sent to _______ to continue his studies 
+<input type="radio"name="question1"> jerusalem 
+<input type="radio"name="question1">samaria 
+<input type="radio"name="question1">bethelehem 
+<input type="radio"name="question1"> sodom 
+
+question 8.  he returned to tarsus after his studies in jerusalem and work in the family business of __________ 
+<input type="radio"name="question1">tent making 
+<input type="radio"name="question1">carpentry 
+<input type="radio"name="question1">fishing 
+<input type="radio"name="question1"> teaching 
+
+question 9. _______ was bent on stamping out chritianity 
+<input type="radio"name="question1"> mathew 
+<input type="radio"name="question1"> paul 
+<input type="radio"name="question1">simon 
+<input type="radio"name="question1"> emmanuel 
+
+question 10. _________ is the process by which we change from one religion to another 
+<input type="radio"name="question1">change 
+<input type="radio"name="question1"> conversion 
+<input type="radio"name="question1"> boomerang 
+<input type="radio"name="question1"> wedding 
+
+question 11. the jews in damascus did not like that paul had joined the christians and was preaching jesusa ,so they wanted to_______him 
+<input type="radio"name="question1">congratulate 
+<input type="radio"name="question1">advice 
+<input type="radio"name="question1">kill 
+<input type="radio"name="question1"> destroy 
+
+question 12. the christians in damascus helped paul to escape in the might in a _______ over the walls 
+<input type="radio"name="question1">bucket 
+<input type="radio"name="question1">basket 
+<input type="radio"name="question1">pot 
+<input type="radio"name="question1">drum 
+
+question 13. it was at _____ that the name 'christian' was first used 
+<input type="radio"name="question1"> antioch 
+<input type="radio"name="question1"> samaria 
+<input type="radio"name="question1"> jerusalem 
+<input type="radio"name="question1"> damascus 
+
+question 14. paul healed a cripple through the help of the __________ 
+<input type="radio"name="question1">fire
+<input type="radio"name="question1">wind 
+<input type="radio"name="question1">holy spirit 
+
+question 15. _____ was the first to address the christian council in jerusalem 
+<input type="radio"name="question1">peter 
+<input type="radio"name="question1">james 
+<input type="radio"name="question1"> thomas 
+<input type="radio"name="question1"> mathew 
+
+question 16 .disputes and controversies in the society are caused by the following except 
+<input type="radio"name="question1">misunderstanding 
+<input type="radio"name="question1">love 
+<input type="radio"name="question1">cheating 
+<input type="radio"name="question1"> carefull 
+
+question 17. paul made __________ his disciple after he had circumcised him 
+<input type="radio"name="question1">timothy 
+<input type="radio"name="question1">peter 
+<input type="radio"name="question1">silas 
+<input type="radio"name="question1">thomas 
+
+question 18. the ability to see into the future with the help of theb evil spirits is called _________
+<input type="radio"name="question1">spirit of divination 
+<input type="radio"name="question1"> prayer 
+<input type="radio"name="question1"> fasting 
+<input type="radio"name="question1"> made food 
+
+question 19.the first miossionary journey of paul led to the ________ expansion of the church outside jerusalem 
+<input type="radio"name="question1">show 
+<input type="radio"name="question1">medium 
+<input type="radio"name="question1">rapid 
+<input type="radio"name="question1"> trusted 
+
+question 20. the apostles faced opposition from forces of _________
+<input type="radio"name="question1">sun 
+<input type="radio"name="question1">darkeness 
+<input type="radio"name="question1">light 
+<input type="radio"name="question1">fan 
+
