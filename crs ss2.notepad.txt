@@ -1,0 +1,122 @@
+crs ss2 
+
+question 1. after jesus had finished with his ministry in galile ,he left for ________
+<input type="radio"name="question1"> jerusalem 
+<input type="radio"name="question1"> canaan 
+<input type="radio"name="question1">egypt
+<input type="radio"name="question1">isreal 
+
+question 2. jesus descended the ___________ for his triumphant entry into jerusalem 
+<input type="radio"name="question1">mount everest 
+<input type="radio"name="question1">mount of olives
+<input type="radio"name="question1"> mount carmel 
+<input type="radio"name="question1"> mount himalaya 
+
+question 3. "i tell you , if these were silent ,the stones would cry out " who made this statment ? 
+<input type="radio"name="question1">luke 
+<input type="radio"name="question1">jesus 
+<input type="radio"name="question1"> john 
+<input type="radio"name="question1"> symoyas 
+
+question 4. jesus _________ over the city of jerusalem 
+<input type="radio"name="question1">wept 
+<input type="radio"name="question1">laughed 
+<input type="radio"name="question1"> rejoiced 
+<input type="radio"name="question1"> hapiness 
+
+question 5. jesus use of the ass fulfils the prophecy of ___________ 
+<input type="radio"name="question1"> zecharariah 
+<input type="radio"name="question1">joab 
+<input type="radio"name="question1">elijah 
+<input type="radio"name="question1">jonna
+
+question 6 .the ass signified ________ 
+<input type="radio"name="question1"> anger
+<input type="radio"name="question1"> envy 
+<input type="radio"name="question1"> peace 
+<input type="radio"name="question1"> searching  
+
+question 7. the horse signified  ___________
+<input type="radio"name="question1">love 
+<input type="radio"name="question1">war 
+<input type="radio"name="question1"> humility 
+<input type="radio"name="question1"> proudness 
+
+question 8. jesus entered jerusalem as a humble ___________ 
+<input type="radio"name="question1"> prince of peace 
+<input type="radio"name="question1">fighter 
+<input type="radio"name="question1">observer 
+<input type="radio"name="question1"> gentle 
+
+question 9. Christians all over the world celebrate the triumphant entry into jerusalem as 
+<input type="radio"name="question1"> oil sunday 
+<input type="radio"name="question1"> fruit sunday 
+<input type="radio"name="question1">palm sunday 
+<input type="radio"name="question1"> vital sunday 
+
+question 10. after the triumphant entry into jerusalem ,jesus went into the ____________ 
+<input type="radio"name="question1"> mosque 
+<input type="radio"name="question1">synagogue 
+<input type="radio"name="question1"> temple 
+<input type="radio"name="question1"> church 
+
+question 11. by cleansing the temple ,jesus exposed ___________ pratices in the house of GOD  
+<input type="radio"name="question1">cumupt 
+<input type="radio"name="question1"> pure 
+<input type="radio"name="question1"> rough
+<input type="radio"name="question1"> root 
+
+question 12. after thev last supper , jesus and his disciles retreated to the garden of _________ 
+<input type="radio"name="question1"> eden 
+<input type="radio"name="question1"> euphrates 
+<input type="radio"name="question1"> gethsemane 
+<input type="radio"name="question1"> nazareth 
+
+question 13. __________ led a mob to arest jesus 
+<input type="radio"name="question1"> peter 
+<input type="radio"name="question1"> andrew 
+<input type="radio"name="question1"> judas  
+<input type="radio"name="question1"> mathew 
+
+question 14. jesus was taken to the house of the priest called 
+<input type="radio"name="question1"> pilate 
+<input type="radio"name="question1"> caiaphas 
+<input type="radio"name="question1"> herod 
+<input type="radio"name="question1"> mariam 
+
+question 15. the highest jewish council is known as the ________ 
+<input type="radio"name="question1"> sanhedrin 
+<input type="radio"name="question1"> samariatans 
+<input type="radio"name="question1"> egyptians 
+<input type="radio"name="question1">  nathaniel 
+
+question 16. the cup symbolises the ______ and _______ 
+<input type="radio"name="question1">suffering ,death 
+<input type="radio"name="question1"> health, resurrection 
+<input type="radio"name="question1"> beginning ,end 
+<input type="radio"name="question1"> resurrection,beginning 
+
+question 17.  joseph of ________ saw to the burial of jesus chtrist 
+<input type="radio"name="question1"> carpenter 
+<input type="radio"name="question1"> aremathea 
+<input type="radio"name="question1"> bethelehem 
+<input type="radio"name="question1"> nazareth 
+
+question 18. belief in the resurrection is the basis of the christian __________--
+<input type="radio"name="question1"> bus 
+<input type="radio"name="question1">growth 
+<input type="radio"name="question1"> faith 
+<input type="radio"name="question1"> bus stop 
+
+question 19. all the three gospels report the resurrection of jesus 
+<input type="radio"name="question1"> false 
+<input type="radio"name="question1"> true 
+<input type="radio"name="question1"> not sure 
+<input type="radio"name="question1"> all of the above 
+
+question 20. the power from on high is the gift of the holy spirit wchich was fulfilled on the day of ____________ 
+<input type="radio"name="question1"> passover 
+<input type="radio"name="question1"> lent 
+<input type="radio"name="question1"> pentecost 
+<input type="radio"name="question1"> monegram 
+
