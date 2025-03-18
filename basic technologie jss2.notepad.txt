@@ -1,0 +1,122 @@
+ basic thechnologie jss2 
+
+question 1 a plank figure bounded by four equal side is called ___________
+<input type='' radio''name=''question1''> square
+<input type='' radio''name=''question1''> rectangle
+<input type='' radio''name=''question1''>trapezium
+<input type='' radio''name=''question1''> kite
+
+question 2 opposite sides of a parallelogram are _______
+<input type='' radio''name=''question1''> diagonal
+<input type='' radio''name=''question1''> parallel
+<input type='' radio''name=''question1''> vertex
+<input type='' radio''name=''question1''>straight
+
+question 3  the diagonals in rhombus bisects each other at
+<input type='' radio''name=''question1''>90 degree
+<input type='' radio''name=''question1''> 60 degree
+<input type='' radio''name=''question1''> 45 degree
+<input type='' radio''name=''question1''> 70 degree
+
+question 4 a quadrilateral with only two parallel sides is called _________
+<input type='' radio''name=''question1''> square
+<input type='' radio''name=''question1''> rectangle
+<input type='' radio''name=''question1''> trapezium
+<input type='' radio''name=''question1''> kite
+
+question 5 the diagonal in xa trpezium bisect each other to give
+<input type='' radio''name=''question1''> 90 degree
+<input type='' radio''name=''question1''> equal opposite angle  
+<input type='' radio''name=''question1''> parallel opposite angle
+<input type='' radio''name=''question1''> 45 degree
+
+question 6 which of the following is not a polygon
+<input type='' radio''name=''question1''> circle
+<input type='' radio''name=''question1''> triangle
+<input type='' radio''name=''question1''> decagon
+<input type='' radio''name=''question1''> heptagon
+
+question 7 two angular points are joined by a __________
+<input type='' radio''name=''question1''> diagonal
+<input type='' radio''name=''question1''> vertex
+<input type='' radio''name=''question1''> horizon
+<input type='' radio''name=''question1''> pinnacle
+
+question 8 a polygon is a plank figure with _________ or more straight sides
+<input type='' radio''name=''question1''> five
+<input type='' radio''name=''question1''> three
+<input type='' radio''name=''question1''> four
+<input type='' radio''name=''question1''> two  
+
+question 9 a regular polygon has ______ it sides and angles equal
+<input type='' radio''name=''question1''> five
+<input type='' radio''name=''question1''> all
+<input type='' radio''name=''question1''> three
+<input type='' radio''name=''question1''> four
+
+
+question 10  an octagon is a polygon with ___________ sides
+<input type='' radio''name=''question1''> 5
+<input type='' radio''name=''question1''> 6
+<input type='' radio''name=''question1''>7
+<input type='' radio''name=''question1''>8
+
+question 11 lubricant oil and grease in engines are use to reduce __________
+<input type='' radio''name=''question1''> tension
+<input type='' radio''name=''question1''> friction
+<input type='' radio''name=''question1''> gravity
+<input type='' radio''name=''question1''>magnetic
+
+question 12 a force that can slow moving object is called ______
+<input type='' radio''name=''question1''> gravity
+<input type='' radio''name=''question1''> magnetic
+<input type='' radio''name=''question1''> contact force
+<input type='' radio''name=''question1''> friction
+
+question 13 ___________ helps to reduce friction due shape of an object
+<input type='' radio''name=''question1''> polishing
+<input type='' radio''name=''question1''> streamlining
+<input type='' radio''name=''question1''> lubrificating
+<input type='' radio''name=''question1''>driving
+
+question 14 material used for making floors in house and office must be of
+<input type='' radio''name=''question1''> low friction
+<input type='' radio''name=''question1''> equal friction
+<input type='' radio''name=''question1''> unequal friction
+<input type='' radio''name=''question1''> high friction
+
+question 15 which of the following is not a method of reducing  friction
+<input type='' radio''name=''question1''> heating
+<input type='' radio''name=''question1''> lubrificating
+<input type='' radio''name=''question1''> streamlining
+<input type='' radio''name=''question1''> polishing
+
+question 16 which of the following is  a machine tool
+<input type='' radio''name=''question1''> circular saving
+<input type='' radio''name=''question1''>surface planing machine
+<input type='' radio''name=''question1''> milling machine
+<input type='' radio''name=''question1''>thicknessing  
+
+question 17 which of the following is used to rotates the work and transmits movement to saddle of a lathe
+<input type='' radio''name=''question1''> the bed
+<input type='' radio''name=''question1''> the head stoch
+<input type='' radio''name=''question1''> the saddle cross slide
+<input type='' radio''name=''question1''> main splindle
+
+question 18 which of the following provide a plank surface for mounting and moving accesories at a constant level on lathe machine
+<input type='' radio''name=''question1''> the bed
+<input type='' radio''name=''question1''> the heavd stock
+<input type='' radio''name=''question1''> the saddles cross slide
+<input type='' radio''name=''question1''> main spindle
+
+question 19 the following are work holding methods except
+<input type='' radio''name=''question1''> catch and carrier
+<input type='' radio''name=''question1''> fae plate
+<input type='' radio''name=''question1''> saddle
+<input type='' radio''name=''question1''> chuck
+
+question 20 which of the following permits movement of tool at angle other than right angle ( e.g for conical work )
+<input type='' radio''name=''question1''> the compound slide
+<input type='' radio''name=''question1''> the head stock
+<input type='' radio''name=''question1''> the slide cross
+<input type='' radio''name=''question1''> main spindle
