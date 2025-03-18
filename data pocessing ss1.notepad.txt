@@ -1,0 +1,96 @@
+ data processing ss1 
+
+question 1 __________ refers to the manipulation of digitised information by computers and other digital electronic equipment
+<input type='' radio''name=''question1''> information technology
+<input type='' radio''name=''question1''> information science
+<input type='' radio''name=''question1''> information processing
+<input type='' radio''name=''question1''>  all of the above
+
+question 2 ____________ can be presented in line graphs ,histograms ,bar ,pie chart etc
+<input type='' radio''name=''question1''> information science
+<input type='' radio''name=''question1''> data
+<input type='' radio''name=''question1''> modeling
+<input type='' radio''name=''question1''>  all of the above
+
+question 3 which of the following is an advantage of using computer for information processing
+<input type='' radio''name=''question1''> computer can store enormous amounts of data for futur use
+<input type='' radio''name=''question1''> initial investment cast can be high  
+<input type='' radio''name=''question1''> face to face interaction among staff may be reduced
+<input type='' radio''name=''question1''> all of the above
+
+question 4 the process through which organizations make sense of new information that they have acquired and disseminated is called ________
+<input type='' radio''name=''question1''> collation
+<input type='' radio''name=''question1''> interpretation of information  
+<input type='' radio''name=''question1''> continuum  
+
+question 5 the main advantage of collation is __________
+<input type='' radio''name=''question1''> disorganise data and information
+<input type='' radio''name=''question1''> to prepare payroll for workers
+<input type='' radio''name=''question1''> to makes it fast and easy for user
+<input type='' radio''name=''question1''> to find an element in the list
+
+
+question 6 the following are simple process for analyzing in formation except _____________
+<input type='' radio''name=''question1''> skim and scan
+<input type='' radio''name=''question1''> high reliability
+<input type='' radio''name=''question1''> identify propaganda,bias
+<input type='' radio''name=''question1''>  all of thre above
+
+question 7 the means of _________ has changed according to living situations and advancements in technology
+<input type='' radio''name=''question1''> communication
+<input type='' radio''name=''question1''> transmission
+<input type='' radio''name=''question1''> organization
+<input type='' radio''name=''question1''> all of the above
+
+question 8 ____________ is the method of sending audio messages over a long distance to large audience using electromagnetic wave
+<input type='' radio''name=''question1''> telegraphy
+<input type='' radio''name=''question1''> radio
+<input type='' radio''name=''question1''> internet
+<input type='' radio''name=''question1''> all of the above
+
+question 9 the specialized wireless reciever /transmitter that is lauched by rocket and placed in orbit around the earth is called ___________
+<input type='' radio''name=''question1''>  internet
+<input type='' radio''name=''question1''> metal gong
+<input type='' radio''name=''question1''> satellite
+<input type='' radio''name=''question1''> all of the above
+
+question 10 _________ was used to pass important information in  the dahys before the existence of the written word
+<input type='' radio''name=''question1''> storing telling
+<input type='' radio''name=''question1''> letter writing
+<input type='' radio''name=''question1''> signs
+<input type='' radio''name=''question1''>  allof of the  above
+
+question 11 ___________ operating system allows multiple users to simulteneously use the system
+<input type='' radio''name=''question1''> single user
+<input type='' radio''name=''question1''> real time
+<input type='' radio''name=''question1''> multi user
+
+question 12 in a ____________ operating system interaction between the user and processor is limited or there is no interaction at all during the excution of work
+<input type='' radio''name=''question1''> real time
+<input type='' radio''name=''question1''> batch processing
+<input type='' radio''name=''question1''> windows
+<input type='' radio''name=''question1''> all of the above
+
+question  13 ___________ allows you to duplicate a section of text
+<input type='' radio''name=''question1''> delete text
+<input type='' radio''name=''question1''> cut and past
+<input type='' radio''name=''question1''> copy
+<input type='' radio''name=''question1''> paste
+
+question 14 _________ contain menu of commands that allows a user insert features ,edits documents ,formats documents
+<input type='' radio''name=''question1''> menu bar
+<input type='' radio''name=''question1''> tittle bar
+<input type='' radio''name=''question1''> task bar
+<input type='' radio''name=''question1''> all of the above
+
+question 15 GUI means _________
+
+question 16 DOS acronmyns _________________
+
+question 17 ______________ is a technology that allows light to travel along thin glass or plastic wires
+
+question 18 _____________ and _________________ afre most commonly used means of communication
+
+question 19 ____________ is used to transmit both visual and audio messages to large audience over a distance
+
+question 20 a______________ dispaly documents a user is currently working on ,other documents that were opened by the user ,start menu ,system etc
