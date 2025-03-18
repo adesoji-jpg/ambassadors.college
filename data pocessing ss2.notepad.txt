@@ -1,0 +1,103 @@
+data processing ss2 
+
+Question 1. a______________ is a collection of data ,usually store disk
+<input type='' radio''name=''question1''> entity
+<input type='' radio''name=''question1''> organization
+<input type='' radio''name=''question1''> file
+<input type='' radio''name=''question1''> all of the above
+
+Question 2. the following criteria must be considered when choosing a file organisation except _______________
+<input type='' radio''name=''question1''> fast access to single record or collection of related records  
+<input type='' radio''name=''question1''>deleting of files records
+<input type='' radio''name=''question1''> storage efficiency
+<input type='' radio''name=''question1''> all of the above
+
+Question 3. ___________________ file organisation ,records and organized in sequence by which they were added
+<input type='' radio''name=''question1''> relative
+<input type='' radio''name=''question1''> sequence
+<input type='' radio''name=''question1''> indexed
+<input type='' radio''name=''question1''> all of the above
+
+Question 4 .the file organization that contains reference numbers ,like employee numbers ,that identify a record in relation to other records is called __________
+<input type='' radio''name=''question1''> distributed
+<input type='' radio''name=''question1''> relative
+<input type='' radio''name=''question1''> indexed
+<input type='' radio''name=''question1''> all of the above
+
+
+Question 5. ____________ refer to the process of moving from one place to another on the internet
+<input type='' radio''name=''question1''> cyber space to another on the internet
+<input type='' radio''name=''question1''> cyber space
+<input type='' radio''name=''question1''> browse
+<input type='' radio''name=''question1''> chat room
+<input type='' radio''name=''question1''> all of the above
+
+Question 6. the process of retrieving information from internet onto a personal computer is call _________
+<input type='' radio''name=''question1''> download
+<input type='' radio''name=''question1''> electronic mail
+<input type='' radio''name=''question1''>upload
+<input type='' radio''name=''question1''> all of ythe above
+
+Question 7 .the ________________ is a collection of web pages just like a book with multiple pages
+<input type='' radio''name=''question1''> opera
+<input type='' radio''name=''question1''> browser
+<input type='' radio''name=''question1''> website
+<input type='' radio''name=''question1''> all of the above    
+
+Question 8.  the internet can be used as a tool to carry out transactions with banks irrespective of user's location 
+true 
+false 
+maybe 
+not sure 
+
+Question 9 . which of the following is an example of computer virus ? 
+trojan 
+spam 
+cyber crime 
+yahoo
+
+Question 10._____________  is an example of presentation package 
+microsoft word 
+Ms power point 
+gallery 
+photoshop 
+
+Question 11. ____________ allow users to create websites and blogs and customize them with their own text , photos and movies 
+google maps 
+webplus 
+web 
+code edictor
+
+Question 12. which of the following is not a features of presentation packages ?
+effective topography 
+creating graphics 
+creation of website 
+creation of slides 
+
+Question 13 .a webpage is a text file containing __________ formating ________________tags and links to graphics files and other web pages through a web sever 
+website 
+HTML
+Microsoft frontpage 
+Noxplayer
+
+Question 14. which of of the following is an exemple of graphic packages ?
+adobe 
+Photoshop 
+collour pallete 
+cube 
+
+Question 15 .the ________________ is use for placing aristic text and paragraph text 
+zoom tool 
+interactive tool 
+text tool
+giga 
+
+Question 16. a browser is also called ____________ 
+
+Question 17._________ is a place where nubers of personal computers connected to the internet are made avaible for use by customers   
+
+Question 18 .Https stands for ______________
+
+Question 19. the ______________ allows for he quick application of a coloured .fill or outline color 
+
+vuestion 20 . _________________ is a private computer network within an organization 
