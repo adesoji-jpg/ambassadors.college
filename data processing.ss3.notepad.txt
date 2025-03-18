@@ -1,0 +1,119 @@
+Question 1 an electronic device that can accept data , process data and give information as output is called _______-
+input 
+processor
+output 
+computer 
+camera 
+
+Question 2. the person regarded as the modern father of a computer is __________-
+blaise pascal 
+samule morland 
+charles babbdage 
+joseph jacquard 
+
+Question 3. which of the following is not souce of data collection ? 
+obersavation 
+interview 
+questionnaire 
+classification 
+
+Question 4 . a field in a database table is also known aS __________ 
+index 
+relation 
+attribute 
+key 
+
+Question 5. the type of data  entered into a table in database follow a set of rules known as ____________- 
+protocols 
+regulators 
+algorithms 
+constraints
+
+Question 6 . social networking does not promote __________ 
+personal publicity 
+business expansion
+E-commerce 
+E-payment 
+
+Question 7. which of the following is not a c omputer professional bodies in nigeria ? 
+nigeria computer society [NCS]
+nigeria internet group [NIG] 
+nigeria labour computer of nig [ITAN]
+
+Question 8. a program developed to protect the computer from malicious sofware is referred to as__________
+trojan 
+driver 
+antivirus 
+spyware 
+
+Question 9. in a relational database managment system files are organized as  relations and __________
+tuple 
+modules 
+tables 
+protocols .  
+
+Question 10.which of the following is an alphabetic data ?
+bed 
+Ax44jj
+AB +CD 
+%
+Question 11 .which of the following is not used for online shopping __________
+master card 
+credit card 
+verve card 
+sim card 
+
+Question 12. in database managment system [DBMS]linking entities is used to represent ?
+attributes 
+objects 
+relationships 
+relations 
+
+Question 13. an operating system will perform the folloewing except __________-
+files and folders management 
+storage locations 
+user profile creation 
+protection from surge 
+
+Question 14.  which of the following is not an ancient medium for transmitting information ? 
+fire lighting 
+beating of drums 
+telephone
+whistling 
+
+Questbion 15 . which of the following are parts of  a computer processor ?
+CPU and main memory 
+control unitand  ALU 
+operating system and application 
+main memory and storage 
+
+Question 16. safety measures to be observed when using the computer include all of the following except ____________
+use of antiglare protector 
+sitting posture 
+maintaning a dust free environment 
+dropping liquids in the computer room
+
+Question 17. which of the following is used  to retrieve specific information from database tables ? 
+index 
+query 
+report 
+tables 
+
+Question 18 .magazines and brochures can be produced using a __________ 
+data processing  software 
+mweb authoring 
+software 
+message 
+
+Question 19. the f ollowing nare advantages of networking except ____________ 
+spamming 
+sharing of resources 
+communication 
+backup 
+
+Question 20. extracting information in database management system [DBMS] involves __________
+sorting 
+querying 
+editing 
+cross referencing 
+ 
