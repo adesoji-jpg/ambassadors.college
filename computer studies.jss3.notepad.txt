@@ -1,0 +1,121 @@
+computer studies jss3 
+
+questions 1 which of the following machines could only add and subtract numbers ?
+<input type='' radio''name=''question1''> leibnitz
+<input type='' radio''name=''question1''>pascaline
+<input type='' radio''name=''question1''>jacquard lorry
+<input type='' radio''name=''question1''> babbage
+
+question 2 the  meaning of wifi is
+<input type='' radio''name=''question1''> wireless fire fox
+<input type='' radio''name=''question1''> williams fidelity
+<input type='' radio''name=''question1''> none of the above
+<input type='' radio''name=''question1''> wireless fidelity
+
+question 3 physical components of the computer system is _________
+<input type='' radio''name=''question1''> program
+<input type='' radio''name=''question1''> software
+<input type='' radio''name=''question1''> hardware
+<input type='' radio''name=''question1''> people ware
+
+question 4 convert 258 to binary
+<input type='' radio''name=''question1''> 100010110two
+<input type='' radio''name=''question1''>100101010two
+<input type='' radio''name=''question1''> 110101010two  
+<input type='' radio''name=''question1''> 100000010two
+
+question 5 the full meanning of FORTRAN is
+<input type='' radio''name=''question1''>formula translation
+<input type='' radio''name=''question1''>formula transformation
+<input type='' radio''name=''question1''> for transport
+<input type='' radio''name=''question1''>fortrans
+
+question 6 MODEM stands for _________
+<input type='' radio''name=''question1''>mode/demode
+<input type='' radio''name=''question1''> modulator/denomodulator
+<input type='' radio''name=''question1''>modern/demand
+<input type='' radio''name=''question1''>modulator/demand
+
+question 7 causes of digital divide include the following except __________
+<input type='' radio''name=''question1''> location
+<input type='' radio''name=''question1''>food
+<input type='' radio''name=''question1''>electricity
+<input type='' radio''name=''question1''>poverty
+
+question 8 a database is a group of related _________
+<input type='' radio''name=''question1''> sheets
+<input type='' radio''name=''question1''>files
+<input type='' radio''name=''question1''> records
+<input type='' radio''name=''question1''> fields
+
+question 9 the meaning of LAN is ___________
+<input type='' radio''name=''question1''> all the above
+<input type='' radio''name=''question1''> local authority of nigeria
+<input type='' radio''name=''question1''> large area mode  
+ <input type='' radio''name=''question1''>local area network
+
+question 10 an input device used to get sounds the computer system is called
+<input type='' radio''name=''question1''>printer
+<input type='' radio''name=''question1''>keyboard
+<input type='' radio''name=''question1''> microphone
+<input type='' radio''name=''question1''> scanner
+
+question 11 processed data is called ____________
+<input type='' radio''name=''question1''> information
+<input type='' radio''name=''question1''> data
+<input type='' radio''name=''question1''> process
+<input type='' radio''name=''question1''> result
+
+question 12 which of the following is not a form of information transmission gadget
+<input type='' radio''name=''question1''> satellite
+<input type='' radio''name=''question1''> mobile phone
+<input type='' radio''name=''question1''> hammer
+<input type='' radio''name=''question1''> facsimile
+
+question 13 computer can be infected with virus from __________
+<input type='' radio''name=''question1''> birds
+<input type='' radio''name=''question1''> human being
+<input type='' radio''name=''question1''> internet
+<input type='' radio''name=''question1''>animals
+
+qurestion 14  __________ is the intergsectioj of a row and a column in a worksheet
+<input type='' radio''name=''question1''>range
+<input type='' radio''name=''question1''>worksheet
+<input type='' radio''name=''question1''> cell
+<input type='' radio''name=''question1''> data value
+
+question 15 which of the following is an phanumeric value ?
+<input type='' radio''name=''question1''> alpha
+<input type='' radio''name=''question1''> 2008
+<input type='' radio''name=''question1''>year 2008
+<input type='' radio''name=''question1''> year
+
+qjuestion 16 what is the smallest unit of data in a computer
+<input type='' radio''name=''question1''> byte
+<input type='' radio''name=''question1''> bit
+<input type='' radio''name=''question1''> gigabyte
+<input type='' radio''name=''question1''>megabyte
+
+question 17 CLS means
+<input type='' radio''name=''question1''>clear shade
+<input type='' radio''name=''question1''> clear sun's screen
+<input type='' radio''name=''question1''> clear screen
+<input type='' radio''name=''question1''> clear service
+
+question 18 which of these is a misuse of computer
+<input type='' radio''name=''question1''> ethnics
+<input type='' radio''name=''question1''> ponography
+<input type='' radio''name=''question1''>dustcovers  
+<input type='' radio''name=''question1''> photography
+
+question 19 ___________ is know as the introductory page of a website
+<input type='' radio''name=''question1''> web page
+<input type='' radio''name=''question1''> browser page
+<input type='' radio''name=''question1''> home page
+<input type='' radio''name=''question1''> back page
+
+question 20 which of the following is an IT gadget
+<input type='' radio''name=''question1''> fax machinde
+<input type='' radio''name=''question1''> magnifier tool
+<input type='' radio''name=''question1''> eraser tool
+<input type='' radio''name=''question1''> paint brust
