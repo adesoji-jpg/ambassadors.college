@@ -1,0 +1,105 @@
+
+ computer studies jss2
+
+question 1 ICT is used for the following except ___________
+<input type='' radio''name=''question1''> infomation management
+<input type='' radio''name=''question1''> timing and control
+<input type='' radio''name=''question1''> deleting
+<input type='' radio''name=''question1''> communication
+
+question 2 a program is ______________
+<input type='' radio''name=''question1''>a set of solutions
+<input type='' radio''name=''question1''>a definition of a problem
+<input type='' radio''name=''question1''>a set of instructions
+<input type='' radio''name=''question1''>games theory
+
+question 3 the law level language is also called __________
+<input type='' radio''name=''question1''>  high level language
+<input type='' radio''name=''question1''> machine language
+<input type='' radio''name=''question1''>  local language
+<input type='' radio''name=''question1''> natural language
+
+question 4 the __________ is a program that translates program written in assembly language to machine language
+<input type='' radio''name=''question1''>compiler
+<input type='' radio''name=''question1''> assembler
+<input type='' radio''name=''question1''> interpreter
+<input type='' radio''name=''question1''> coder
+
+question 5 the process of removing errors in a program is called ____________
+<input type='' radio''name=''question1''> translating
+<input type='' radio''name=''question1''> programming
+<input type='' radio''name=''question1''> debugging
+<input type='' radio''name=''question1''> decoding
+
+question 6 which of the is not a keyword
+<input type='' radio''name=''question1''> LET
+<input type='' radio''name=''question1''> DATA
+<input type='' radio''name=''question1''> COME
+<input type='' radio''name=''question1''> GO TO
+
+question 7 which of the following is used to output result  
+<input type='' radio''name=''question1''> READ
+<input type='' radio''name=''question1''> PRINT
+<input type='' radio''name=''question1''> GO TO
+<input type='' radio''name=''question1''> all of the above
+
+question 8 a graphics package will do thre following except __________
+<input type='' radio''name=''question1''> drawing
+<input type='' radio''name=''question1''> painting
+<input type='' radio''name=''question1''> printing
+<input type='' radio''name=''question1''> arithmetic
+
+question 9 the tools used for drawing are located in the _____________
+<input type='' radio''name=''question1''> tool box
+<input type='' radio''name=''question1''> status bar
+<input type='' radio''name=''question1''> print box
+<input type='' radio''name=''question1''> function bar
+
+question 10 a telecommunication device that is used to send and receive audio and signals accross distance is know as ________-
+<input type='' radio''name=''question1''> telephone
+<input type='' radio''name=''question1''> internet
+<input type='' radio''name=''question1''> television
+<input type='' radio''name=''question1''> satellite
+
+question 11 which of the following does not transmit signals ?
+<input type='' radio''name=''question1''> radio
+<input type='' radio''name=''question1''> calculator
+<input type='' radio''name=''question1''> computer
+<input type='' radio''name=''question1''> satellite
+
+question 12 which of the following is a disavantage of ICT
+<input type='' radio''name=''question1''> effective human interaction
+<input type='' radio''name=''question1''> job losses
+<input type='' radio''name=''question1''> globalization
+<input type='' radio''name=''question1''> accdes to information
+
+question 13 a graphics program can be used to create a company logo
+<input type='' radio''name=''question1''> true
+<input type='' radio''name=''question1''> false
+<input type='' radio''name=''question1''> maybe
+<input type='' radio''name=''question1''> i did not know
+
+question 14 which of the following is a computer graphics package ?
+<input type='' radio''name=''question1''> BASIC
+<input type='' radio''name=''question1''> COREL DRAW
+<input type='' radio''name=''question1''> FORTRAN
+
+question 15 which of the following is odd
+<input type='' radio''name=''question1''> fax
+<input type='' radio''name=''question1''> pager
+<input type='' radio''name=''question1''> pencils
+<input type='' radio''name=''question1''> GSM
+
+question 16 whih of the following is a computer program ?
+<input type='' radio''name=''question1''> BASIC
+<input type='' radio''name=''question1''> MS-PAINT
+<input type='' radio''name=''question1''> DATA
+<input type='' radio''name=''question1''> FRENCH
+
+question 17 symbolic representation is also know as ___________
+
+question 18 COBOL acronyms _____________  
+
+question 19 a global system for mobile communication is called __________
+
+question 20 the full meaning of ICT is ________________
