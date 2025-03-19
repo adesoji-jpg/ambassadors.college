@@ -1,0 +1,106 @@
+                                                                                                   mathematics ss3
+
+Question 1 evaluate correct to four significant figures ( 573.06 x 184.25)
+105600.00
+105622.00
+105500.00
+105532.00
+Question 2 change 432 5 to a number in base three
+10100
+11100  
+11101 
+10110 
+Question 3 given that A and B are set such that (A) = 8 ,n(B) =12 and n(AՈB) =3
+find n(AՍB)
+15
+ 17
+ 20
+ 23
+Question 4 if + = y find the value of y 
+4
+2 
+-2
+ -4
+Question 5 evaluate 23x24 (mod 7)
+2 
+3
+5
+6
+Question 6 if 4 3x =16 x+1 find the value of x -2 2 1 -1
+Question 7 find the 17 th term of the arithmetic progression (A.P) -6 ,-1,-4….
+-91 
+-86 
+74 
+79
+Question 8 m varies directly as n and inversely as the square of p if m=3 when n=2
+and p=1 fnd m in the term of n and p
+m = 3n/2p^2 
+m = 2n/3p^2 
+m = 2n/3p
+m = 3n^2 /3p^2
+Question 9 if a= 3 and b= -7find the value of
+                                 5b +(a+b)^2
+                                      (a-b) 2
+ 0.51
+ 0.19 
+-0.19 
+-0.51
+Question 10 three boys share D10500.00 in the ratio 6:7:8 find the largest share
+D4000.00 
+D5000.00 
+D4500.00 
+D3500.00
+Question 11 the length of a piece of stick is 175m a boy measured it as 1.80m
+.find the percentage error
+4 % 
+2% 
+2% 
+4%
+Question 12 if 5x +3y = 2 what is the value of (25x^2 -9y^2 )
+20
+16
+ 2
+ 8
+
+Question 13 what value of p will make x^2 -4x +3 a perfect square
+-2 
+16
+ 4
+ -8
+Question 14.Find the value of x such that 1/x + 4/3x - 5/6x -1 is zero
+1/6    
+1/4
+-3/2
+-/6
+Question 15 make t subject of K= m√(t-p/r)
+t=rk^2 +p/m^2
+t=rk^2 +pm^2/m^2
+t=rk^2+ p /m^2
+t=rk^2+p^2/m^2
+Question 16 solve 6x^=5x-1
+x=2,3 
+x=0,3
+x=1/2 , 1/3
+x=1/2,-1/3
+Question 17 given that log 3 ^27 =2x +1 find the value of x 
+0
+1
+2
+3
+Question 18 solve y+2 - y-1>1 
+                                 4       3
+y< -10
+y<-2
+y<2 
+y<10
+Question 19 if the equation x^2 - 5x +6 =0  and x^2 +px +6 =0 have common roots ,find the value of p 
+5
+6
+-6
+-5
+Question 20 find the volume of a cone of radius 3.5 and vertical height 12cm [take pie =22/7]
+15.5cm^3
+21.0cm^3
+142.0cm^3
+154.0cm^3 
+
