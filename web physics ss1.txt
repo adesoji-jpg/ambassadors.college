@@ -1,0 +1,118 @@
+
+                                                                              physics ss1
+1.A lead bullet of mass 0.05kg is fired with a velocity of 200ms−1
+ into a lead block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is
+
+A. 50 J
+B. 100 J
+C. 150 J
+D. 200 J
+
+2.A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms-1 from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is
+
+(take g = 10ms-2)
+
+A. 5 J
+B. 10 J
+C. 15 J
+D. 20 J
+3.A car of mass 800kg attains a speed of 25m/s in 20 secs. The power developed in the engine is
+
+A. 1 . 25 x 104 W
+B. 2 . 50 x 104 W
+C. 1 . 25 x 106W
+D. 2 . 50 x 106 W
+4.A solid weigh 10 .00 N in air, 6 N when fully immersed in water and 7 . 0 N when fully immersed in a liquid X. Calculate the relative density of the liquid, X.
+A. 5/3
+B. 4/3
+C. 3/4
+D. 7/10
+5. A solid weigh 10 .00 N in air, 6 N when fully immersed in water and 7 . 0 N when fully immersed in a liquid X. Calculate the relative density of the liquid, X.
+A. 5/3
+B. 4/3
+C. 3/4
+D. 7/10
+6. A rope is being used to pull a mass of 10kg vertically upward. Determine the tension in the rope if, starting from rest, the mass acquires a velocity of 4ms-1 in 8s [g = 10ms-2]
+A. 5N
+B. 50N
+C. 95N
+D. 105N
+7.A projectile is launched with a velocity of 42ms-1 at an angle of 30o to the horizontal. If the time of flight is 4.2 s, calculate the maximum attainable height. [g = 10 ms-2]
+8.A stream is flowing at 0.75ms-1 and a boat heading perpendicular for the stream landed at the opposite bank at an angle of 30°. Calculate the velocity of the boat.
+A. 1.50ms-1
+B. 1.00ms-1
+C. 0.86ms-1
+D. 0.65ms-1
+9.What is the acceleration between two points on a velocity time graph which has coordinates
+(10s, 15 ms-1)
+and (20 s, 35 ms-1)?
+
+A. 1.7 ms-2
+B. 3.50 ms-2
+C. 1.00 ms-2
+D. 2.00 ms-2
+10.Two cars moving in the same direction have speeds of 100 kmh-1 and 130 kmh-1 what is the velocity of the faster car as measured by an observer in the slower car?
+
+A. 30 kmh-1
+B. 130 kmh-1
+C. 200 kmh
+D. 230 kmh-1
+11.A car moves with an initial velocity of 25 ms-1 and reaches a velocity of 45 ms-1 in 10s. what is the acceleration of the car?
+A. 2 ms-2
+B. 5 ms-2
+C. 20 ms-2
+D. 25 ms-2
+12.A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled?
+A. 4.0 ms-1
+B. 6.6 ms-1
+C. 12.1 ms-1
+D. 21.0 ms-1
+13.A body of mass 4 kg resting on a smooth horizontal plane is simultaneously acted upon by two perpendicular forces 6N and 8N. Calculate the acceleration of the motion
+A. 2.5 ms-1
+B. 3.0 ms-1
+C. 4.0 ms-1
+D. 4.5 ms-1
+14.A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?
+
+A. 100 m
+B. 50m
+C. 32 m
+D. 18 m
+15.A car moving with a speed of 90kmh−1
+ was brought uniformly to rest by the application of the brakes in 10s. How far did the car travel after the brakes were applied?
+
+A. 125m
+B. 150m
+C. 250m
+D. 15km
+16.A particle starts from rest and moves with a constant acceleration of 0.5ms-2. The distance covered by the particle in 10s is?
+
+A. 2.5m
+B. 5.0m
+C. 25.0m
+D. 50.0m
+17.wo objects, one having three times the mass of the other, are dropped at the same time from a tall building. When they are above the ground, the two objects will have the same?
+
+A. Momentum
+B. Kinetic energy
+C. Potential energy
+D. Acceleration
+18.A tugboat is travelling from Asaba to Onitsha across the River Niger with a resultant velocity of 20 knots. If the river flows at 12 knots, the direction of motion of the boat relative to the direction of water flow is?
+
+A. 36.87degree
+B. 53.13degree
+C. 90degree
+D. 136degree
+E. 143.13degree
+19.A body of mass 25kg, moving at 3ms-1 on a rough horizontal floor is at rest after sliding through a distance of 2.50m on the floor. Calculate the co-efficient of sliding friction. [g = 10.0ms-2]
+
+A. 0.09
+B. 0.18
+C. 0.36
+D. 0.54
+20.A ball is dropped and it hits the floor at a point A. It rebounds upward to a point B. While moving from A to B its?
+
+A. kinetic energy is increasing
+B. potential energy is increasing
+C. potential energy is decreasing
+D. kinetic energy remains constant
