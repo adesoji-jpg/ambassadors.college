@@ -1,0 +1,162 @@
+chemistry ss1
+
+Question 1 .The ion hydronium [H+] or [H3o+] and ion Hydroxyde [OH-] can only come from:
+
+a)water(H2o)
+b)neutral solution 
+c)neutral solution or water(H2o)
+D) acidic and Alkaline solution 
+
+Question 2. The ion hydronium [H3o+] and chloride ion [cl-] can only come from:
+a) water (H2o)
+b)neutral solution 
+C)Hydrochloric acid
+D)Hydrochloric acid and water (H2o)
+
+Question 3 . 
+H2o  ------------------------>>( H+) +(OH-)
+      <<-------------------------
+
+a)this system may arise from water sources
+b)this system may arise from hydrochloric acid sources 
+C)this system may arise from acidic and water (H2o) sources
+D)this system may arise from acidic and alkaline sources
+
+Question 4.   What would be the réaction if they added water(H2o) on Hydrochloric acid(Hcl) :
+
+a)Hcl+H2o------------------------>>(H3o+)+(cl-)
+b)Hcl+H2o----------------------->>(H3o+)+2(cl-)
+C)Hcl+H2o---------------------->>2(H3o+)+(cl-)
+D)Hcl+H2o----------------------->>(H3o-)+(cl+
+
+note that Æ =arrow
+Question 5) Balancing Equations Worksheet
+
+  ___ K + ___ B2O3 Æ ___ K2O + ___ B
+
+
+(a) 7K + 3B2O3       Æ   1/2 K2O +  3 B
+(b) 6 K + 3/4B2O3  Æ    2 K2O + 5 B
+(c) 5 K + 8B2O3      Æ     4K2O + 3 B
+(d) 6K + B2O3         Æ     3K2O + 2B
+
+Question 6) Balancing Equations Worksheet
+
+ ___ HCl + ___ NaOH  Æ ___ NaCl + ___ H2O
+
+(a) HCl + 1NaOH       Æ     2 NaCl + 6 H2O
+(b) HCl +  NaOH        Æ     NaCl + H2O
+(c) HCl + NaOH         Æ     NaCl + 4H2O
+(d) 2HCl + 3NaOH    Æ    3 NaCl + 1/2 H2O
+
+Question 7)  Balancing Equations Worksheet
+
+___ Na + ___ NaNO3  Æ ___ Na2O + ___ N2
+
+(a) 10Na +  2NaNO3        Æ       6Na2O + N2
+(b) Na + NaNO3                Æ        2Na2O +  N2
+(c) Na + NaNO3                 Æ         4Na2O + 7N2
+(d) 2Na + 4 NaNO3           Æ       3Na2O + 11N2
+
+Question 8) Balancing Equations Worksheet
+
+ ___ C + ___ S8 Æ ___ CS2
+
+(a) 6 C + 7 S8      Æ      7CS2
+(b) 4C + S8          Æ       4CS2
+(c) 0C + 2S8        Æ       8CS2
+(d) 4C + 2S8       Æ       4CS2
+
+Question 9) Balancing Equations Worksheet
+
+ ___ Na + ___ O2 Æ ___ Na2O
+
+(a) 4Na + 21O2      Æ        5Na2O
+(b) 6Na + 5O2        Æ        3Na2O
+(c) 4Na +  O2          Æ        2Na2O
+(d) 5Na + 3O2        Æ         4Na2O
+
+Question 10) Balancing Equations Worksheet
+
+___ N2 + ___ O2 Æ ___ N2O5
+
+(a)     4N2 + O2         Æ     N2O5
+(b)     N2 + 3O2         Æ    1N2O5
+(c)     N2 + 2O2         Æ      N2O5
+(d)     2N2 + 5O2       Æ     2N2O5
+
+Question 11) Balancing Equations Worksheet
+
+ ___ KOH + ___ HBr Æ ___ KBr + ___ H2O
+
+(a) KOH + HBr          Æ     KBr +  H2O
+(b) 6KOH + HBr        Æ     KBr +  H2O
+(c) KOH + HBr           Æ     KBr + 2H2O
+(d) 2KOH + HBr         Æ    3KBr + H2O
+
+Question 12.The periodic classification of elements is an arrangement of the elements in order of their
+
+A. Atomic Weights
+B. Isotopic Weights
+C. Molecular Weights
+D. Atomic Numbers
+E. Atomic Masses
+
+Question 13. The oxidation state of chlorine in potassium chlorate is?
+
+A. +1
+B. +2
+C. +3
+D. +5
+E. +7
+
+Question 14. When heat is absorbed during a chemical reaction, the reaction is said to be
+
+A. thermodynamic
+B. exothermic
+C. isothermal
+D. endothermic
+E. thermostatic
+
+Question 15. If 30cm3 of oxygen diffuses through a porous pot in 7 seconds, how long will it take 60cm3
+ of chlorine to diffuse through the same pot, if the vapour densities of oxygen and chlorine are 16 and 36 respectively?
+
+A. 9.3 sec
+B. 14 sec
+C. 21 sec
+D. 28 sec
+E. 30.3 sec
+
+Question 16.
+In titration involving sodium hydroxide and dilute hydrochloric acid, where would you place the base?
+
+A. in the beaker
+B. in the conical flask
+C. in a burette
+D. in the standard flask
+E. in the measuring cylinder
+
+Question 17. 200cm3 each of 0.1M solutions of lead (II) trioxonitrate(V) and hydrochloric acid were mixed. Assuming that lead (II) chloride is completely insoluble, calculate the mass of lead (II) chloride that will be precipitated.
+[Pb = 207, Cl= 35.5, N = 14, O = 16]
+
+A. 2.78g
+B. 5.56g
+C. 8.34g
+D. 11.12g
+
+Question 18.  56.00cm3 of a gas at S.T.P. weighed 0.11g. What is the vapour density of the gas?
+[Molar volume of a gas at S.T.P = 22.4dm3]
+A. 11.00
+B. 22.00
+C. 33.00
+D. 44.00
+
+Question 20.Which is the temperature of a given mass of a gas initially at 0°C and 9 atm, if the pressure is reduced to 3 atm at constant volume?
+A. 91K
+B. 182K
+C. 273K
+D. 819K
+
+
+
+
