@@ -1,0 +1,121 @@
+
+                                                         physics ss2
+1.A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil  the water is?
+[Special latent heat of Vaporization of water = 2.3 x 106
+ Jkg-1]
+
+A. 1.15 x 104s
+B. 1.15 x 103s
+C. 4.6 x 104s
+D. 4.6 x 103s
+2.A device that converts sound energy into electrical energy is?
+A. the horn of a motor car
+B. an A.C. generator
+C. a microphone
+D. the telephone
+E. radio waves
+3.A body is released from rest and allowed to fall freely from a given height under gravity. The kinetic energy at its half-way point is?
+
+A. a little above half of its initial energy
+B. a little below half of its initial energy
+C. a half of its initial energy
+D. a little above its initial energy
+E. a little below its initial energy
+4. if the times of flight is 96 seconds calculate the horizontale range through the point of projectiom 
+84400m
+96000m
+61440m
+24000m 
+5. In case of a projectile motion, what is the angle between the velocity and acceleration at the highest point? 
+a) 0° 
+b) 45°
+ c) 90° 
+d) 180° 
+6.The relation between the time of flight of projectile Tf, and the time to reach the maximum height tm is 
+a) Tf = 2tm 
+b) Tf = tm 
+c) Tf = tm/2 
+d) Tf = √2 (tm) 
+7.The speed of a projectile at its maximum height is √3/2 times its initial speed. If the range of the projectile is P times the maximum height attained by it, then P equals
+ a) 4/3 
+b) 2√3 
+c) 4√3 
+d) 3/4 
+8.A hiker stands on the edge of a cliff 490 m above the ground and throws a stone horizontally with a speed of 15 m s^-1. The time taken by the stone to reach the ground is 
+a) 5 s
+ b) 10 s
+ c) 12 s 
+d) 15 s 
+9.A ball is thrown from the top of a tower with an initial velocity of 10 m s^-1 at an angle ot 30° with the horizontal. If it hits the ground at a distance of 17.3 m from the base of the tower, the height of the tower is (Take g = 10 m s-2) 
+a) 5 m 
+b) 20 m 
+c) 15 m 
+d) 10 m 
+10.A body moves 6 m north. 8 m east and 10 m vertically upwards, what is its resultant displacement from initial position is
+a)10√2 m
+b)10 m 
+c)10/√2 m  
+d)20 m 
+11The resultant of two forces 12N and 5N is 13N. What is the angle between the two forces?
+
+A. 0degree
+B. 45degree
+C. 90degree
+D. 180degree
+12.
+A body of mass 4 kg resting on a smooth horizontal plane is simultaneously acted upon by two perpendicular forces 6N and 8N. Calculate the acceleration of the motion
+
+A. 2.5 ms-1
+B. 3.0 ms-1
+C. 4.0 ms-1
+D. 4.5 ms-1
+13.An air craft attempt to fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is?
+A. 117 kmh-1, N31oE
+B. 127 kmh-1, N31oE
+C. 117 kmh-1, N31oW
+D. 127 kmh-1, N31oW
+
+14. If PQ and R are vectors, which of the following options, gives a correct relationship between the vectors?
+A. P = Q + R
+B. P = Q - R
+C. P = R - Q
+D. P + Q + R = O
+
+15.A bullet fired vertically upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0s. calculate its initial velocity.
+[g = 10ms-2]
+
+A. 10 ms-1
+B. 8 ms-1
+C. 40 ms-1
+D. 20 ms-1
+16. If the force and the velocity on a system are each reduced simultaneously by half, the power of the system is
+
+A. doubled
+B. reduced to a quarter
+C. reduced by half
+D. constant
+17.If a body mass 5kg is thrown vertically upwards with velocity u,at what height will the potential energy equal to the kinetic energy?
+
+A. h =(u)2/g
+B. h = (u)2/4g
+C. h = (2u)2/g
+D. h = (u)2/2g
+18.A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?
+
+A. 0.96 kWh
+B. 1.92 kWh
+C. 9.60 kWh
+D. 19.20 kWh
+19.If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended?
+[g = 10 ms2]
+
+A. 11.50 kw
+B. 12.60 kw
+C. 11.25 kw
+D. 12.10 kw
+20.if a load of mass 10N stretched a cord by 1.2cm, what is the total work done?
+
+A. 6.0 x 10-2J
+B. 7.6 x 10-2J
+C. 1.8 x 10-2J
+D. 6.6 x 10-2J
